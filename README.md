@@ -21,8 +21,8 @@ _La base de données sera un fichier statique pour effectuer les tests ._
 
 Dans les versions futur nous voulons ajouter d'autre fonctions utile.
  - Les options de localisation qui permet de trouver votre arrêt.
- - Plusieurs autre services de transport qui sont disponible dans votre region.
- - Localiser les services de transport pres de vous.
+ - Plusieurs autre services de transport qui sont disponible dans votre région.
+ - Localiser les services de transport prés de vous.
  - Un assistant qui peut vous aider à planifier et trouver la meilleur trajet.
  - Informer quel l'heure arrivez vous à votre destination.
  - Une carte de votre région afin que vous puissiez trouver votre chemin plus facilement.
