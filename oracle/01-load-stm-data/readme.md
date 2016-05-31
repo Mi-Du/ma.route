@@ -8,3 +8,9 @@ run create-stm.sql to create tables
 1. put all *.bat, *.ctl files to the same fold
 1. run load-stm.bat, which will prompt a oracle user/password for each line/table.
 1. after finish, check if there are *.bad files in the folder, which means some error happened when load a text file.
+
+# gitbook link
+https://bdeb212.gitbooks.io/project-bus/content/
+
+
+
