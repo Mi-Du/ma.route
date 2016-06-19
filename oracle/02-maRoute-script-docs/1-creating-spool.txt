@@ -1,0 +1,98 @@
+SQL>  start d:\mywork\maroute\1-creating.sql
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+drop index route_stops_idx 
+           *
+ERROR at line 1:
+ORA-01418: specified index does not exist 
+
+
+drop index trips_route_idx 
+           *
+ERROR at line 1:
+ORA-01418: specified index does not exist 
+
+
+drop  index stop_times_idx 
+            *
+ERROR at line 1:
+ORA-01418: specified index does not exist 
+
+
+
+Sequence dropped.
+
+
+Sequence dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Sequence created.
+
+
+Sequence created.
+
+
+Trigger created.
+
+
+Trigger created.
+
+
+View created.
+
+
+View created.
+
+
+View created.
+
+
+Function created.
+
+
+Function created.
+
+SQL> spool off
